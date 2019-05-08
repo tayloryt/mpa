@@ -1,0 +1,15 @@
+{% extends '../../common/layout.html' %}
+
+{% block title %}yt!{% endblock %}
+
+{% block head %}
+<link rel='stylesheet' href=/styles/index-test.css>
+{% endblock %}
+
+{% block content %}
+    {% include "../../../components/ytheader/index.html" %}
+{% endblock %}
+
+{% block scripts %}
+<script src=/scripts/runtime.bundles.js></script><script src=/scripts/index-test.bundles.js></script>
+{% endblock %}

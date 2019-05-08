@@ -1,0 +1,36 @@
+[2019-04-16T15:05:41.503] [ERROR] cheese - { Error: ENOENT: no such file or directory, open 'E:\mpa\dist\views\index.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'E:\\mpa\\dist\\views\\index.html' }
+[2019-04-16T15:05:41.646] [ERROR] cheese - 我的天啊404
+[2019-04-16T15:17:30.682] [ERROR] cheese - { Error: ENOENT: no such file or directory, open 'E:\mpa\dist\views\index.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'E:\\mpa\\dist\\views\\index.html' }
+[2019-04-16T15:23:16.105] [ERROR] cheese - { Error: ENOENT: no such file or directory, open 'E:\mpa\dist\views\index.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'E:\\mpa\\dist\\views\\index.html' }
+[2019-04-16T15:23:22.936] [ERROR] cheese - 我的天啊404
+[2019-05-07T16:12:08.461] [ERROR] cheese - { Error: ENOENT: no such file or directory, open 'E:\mpa\dist\views\index.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'E:\\mpa\\dist\\views\\index.html' }
+[2019-05-07T16:12:08.507] [ERROR] cheese - 我的天啊404
+[2019-05-07T16:12:56.463] [ERROR] cheese - 我的天啊404
+[2019-05-07T16:21:36.503] [ERROR] cheese - 我的天啊404
+[2019-05-07T16:21:39.037] [ERROR] cheese - 我的天啊404
+[2019-05-07T16:21:42.111] [ERROR] cheese - 我的天啊404
+[2019-05-07T16:22:20.268] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:35:29.701] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:35:29.951] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:35:34.275] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:35:58.157] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:36:03.842] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:36:11.212] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:36:59.226] [ERROR] cheese - 我的天啊404
+[2019-05-08T10:42:31.653] [ERROR] cheese - 我的天啊404
